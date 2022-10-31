@@ -5,7 +5,7 @@
  * return: always 0
  */
 
-void print_triangle(int size)
+void print_triangle(int n)
 {
 	int h, tri;
 
