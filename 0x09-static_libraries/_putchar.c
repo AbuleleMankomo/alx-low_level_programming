@@ -1,9 +1,9 @@
+#include "main.h"
 #include <unistd.h>
 /**
- * _putchar writethe character to stdout
- * @c- the character
- * Return: on success1
- * On eror -1 is returnedand errno is set appropriately
+ * _putchar  - write the character c to standard output
+ * @c: character to print
+ * Return: success 1
  */
 int _putchar(char c)
 {
