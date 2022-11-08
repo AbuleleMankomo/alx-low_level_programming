@@ -9,5 +9,8 @@ char *str_concat(char *s1, char *s2);
 int **alloc_grid(int width, int height);
 void free_grid(int **grid, int height);
 int _putchar(char c);
+int count_word(char *s);
+char **strtow(char *str);
+char *argstostr(int ac, char **av);
 
 #endif
