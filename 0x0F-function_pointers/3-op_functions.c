@@ -44,6 +44,7 @@ int op_div(int a, int b)
 		printf("Error\n");
 		exit(100);
 	}
+	return (a / b);
 }
 /**
  * op_mod - return the remainder of the division of a and b
