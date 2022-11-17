@@ -1,6 +1,5 @@
 #include "3-calc.h"
 /**
- *
  * main - performs simple operations
  * @argc: argument count
  * @argv: argument vector
